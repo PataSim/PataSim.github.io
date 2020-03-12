@@ -1,0 +1,51 @@
+    .antraste{
+    text-align: center;
+    background-color: green;
+    font-size: 50pt;
+    color: black;
+    letter-spacing: 3px;
+    }
+
+    body {
+    background-color: silver;
+    }
+
+	#vardas {
+		color: green;
+		text-align: right;
+        font-size: 11pt;
+        vertical-align: bottom;
+	}
+
+    .antraste2{
+    text-align: left;
+    font-size: 40pt;
+    font-weight: bold;
+    }
+    
+    table, tr, td{
+        border: 5px solid darkgreen;
+        border-radius: 5px;
+        border-collapse: collapse;
+        width: fit-content;
+    }
+
+    .foto {
+		height: 300px;
+    }
+
+    .foto:hover {
+        border-radius: 10px;
+        filter: grayscale(100%)
+    }
+
+    .tekstas{
+        color: black;
+        font-size: 13pt;
+         
+    }
+
+    .tas {
+        margin: auto;
+        display: inline;
+    }
